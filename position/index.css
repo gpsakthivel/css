@@ -1,0 +1,27 @@
+.fixed {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    translate: -50%;
+}
+
+.sticky {
+    position: sticky;
+    top: 50%;
+    left: 50%;
+    translate: -50%;
+}
+
+.absolute {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    translate: -50%;
+}
+
+.relative {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    translate: -50%;
+}
